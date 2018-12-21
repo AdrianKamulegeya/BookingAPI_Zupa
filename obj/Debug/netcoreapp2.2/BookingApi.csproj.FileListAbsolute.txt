@@ -1,0 +1,14 @@
+D:\adria\Documents\BitBucket\zupa\BookingApi\bin\Debug\netcoreapp2.2\BookingApi.deps.json
+D:\adria\Documents\BitBucket\zupa\BookingApi\bin\Debug\netcoreapp2.2\BookingApi.runtimeconfig.json
+D:\adria\Documents\BitBucket\zupa\BookingApi\bin\Debug\netcoreapp2.2\BookingApi.runtimeconfig.dev.json
+D:\adria\Documents\BitBucket\zupa\BookingApi\bin\Debug\netcoreapp2.2\BookingApi.dll
+D:\adria\Documents\BitBucket\zupa\BookingApi\bin\Debug\netcoreapp2.2\BookingApi.pdb
+D:\adria\Documents\BitBucket\zupa\BookingApi\obj\Debug\netcoreapp2.2\BookingApi.csprojAssemblyReference.cache
+D:\adria\Documents\BitBucket\zupa\BookingApi\obj\Debug\netcoreapp2.2\BookingApi.csproj.CoreCompileInputs.cache
+D:\adria\Documents\BitBucket\zupa\BookingApi\obj\Debug\netcoreapp2.2\BookingApi.RazorAssemblyInfo.cache
+D:\adria\Documents\BitBucket\zupa\BookingApi\obj\Debug\netcoreapp2.2\BookingApi.RazorAssemblyInfo.cs
+D:\adria\Documents\BitBucket\zupa\BookingApi\obj\Debug\netcoreapp2.2\BookingApi.AssemblyInfoInputs.cache
+D:\adria\Documents\BitBucket\zupa\BookingApi\obj\Debug\netcoreapp2.2\BookingApi.AssemblyInfo.cs
+D:\adria\Documents\BitBucket\zupa\BookingApi\obj\Debug\netcoreapp2.2\BookingApi.RazorTargetAssemblyInfo.cache
+D:\adria\Documents\BitBucket\zupa\BookingApi\obj\Debug\netcoreapp2.2\BookingApi.dll
+D:\adria\Documents\BitBucket\zupa\BookingApi\obj\Debug\netcoreapp2.2\BookingApi.pdb
